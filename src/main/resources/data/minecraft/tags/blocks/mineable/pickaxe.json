@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "template-mod:ice_ether_block",
-    "template-mod:raw_ice_ether_block"
+    "template-mod:raw_ice_ether_block",
+    "template-mod:ice_ether_ore"
   ]
 }

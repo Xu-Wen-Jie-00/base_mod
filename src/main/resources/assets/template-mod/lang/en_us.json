@@ -1,7 +1,10 @@
 {
   "item.template-mod.ice_ether": "Ice Ether",
+  "item.template-mod.raw_ice_ether": "Raw Ice Ether",
+
   "block.template-mod.ice_ether_block": "Ice Ether Block",
   "block.template-mod.raw_ice_ether_block": "Raw Ice Ether Block",
-  "item.template-mod.raw_ice_ether": "Raw Ice Ether",
+  "block.template-mod.ice_ether_ore": "Ice Ether Ore",
+
   "itemGroup.template_group": "Template Group"
 }
