@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "template-mod:ice_ether_block"
+    }
+  ],
+  "result": {
+    "item": "template-mod:ice_ether",
+    "count": 5
+  }
+}

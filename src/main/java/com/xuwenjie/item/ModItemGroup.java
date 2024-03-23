@@ -28,6 +28,8 @@ public class ModItemGroup {
                         entries.add(Items.BOOK);
                         entries.add(Blocks.GRASS_BLOCK);
                         entries.add(ModBlocks.ICE_ETHER_BLOCK);
+                        entries.add(ModBlocks.RAW_ICE_ETHER_BLOCK);
+                        entries.add(ModItems.RAW_ICE_ETHER);
                     })
                     .build());
     public static void registerModItemGroup(){
