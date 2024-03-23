@@ -1,5 +1,6 @@
 package com.xuwenjie;
 
+import com.xuwenjie.item.ModItemGroup;
 import com.xuwenjie.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -12,6 +13,7 @@ public class TemplateMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Hello Fabric world!");
-		ModItems.registerModItems();
+		ModItems.registerModItems();//初始化物品
+		ModItemGroup.registerModItemGroup();//初始化物品栏
 	}
 }
