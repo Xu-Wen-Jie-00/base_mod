@@ -1,6 +1,7 @@
 package com.xuwenjie.item;
 
 import com.xuwenjie.TemplateMod;
+import com.xuwenjie.block.ModBlocks;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
@@ -13,7 +14,7 @@ import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 
 /**
- * @Description []
+ * @Description [自定义物品栏]
  * @Author: 徐文杰
  * @Date: 2024/3/23  20:30
  */
@@ -26,6 +27,7 @@ public class ModItemGroup {
                         entries.add(ModItems.ICE_ETHER);
                         entries.add(Items.BOOK);
                         entries.add(Blocks.GRASS_BLOCK);
+                        entries.add(ModBlocks.ICE_ETHER_BLOCK);
                     })
                     .build());
     public static void registerModItemGroup(){

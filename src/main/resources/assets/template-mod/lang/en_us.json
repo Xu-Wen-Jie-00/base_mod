@@ -1,4 +1,5 @@
 {
   "item.template-mod.ice_ether": "Ice Ether",
+  "block.template-mod.ice_ether_block": "Ice Ether Block",
   "itemGroup.template_group": "Template Group"
 }

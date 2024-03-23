@@ -11,7 +11,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 /**
- * @Description []
+ * @Description [自定义物品]
  * @Author: 徐文杰
  * @Date: 2024/3/23  19:29
  */
